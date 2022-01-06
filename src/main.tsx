@@ -11,6 +11,8 @@ const Main = () => (
       getComponent={() =>
         import('./pages/Home/index').then((module) => module.default)
       }
+      // custom props being passed down
+      text="toto"
     />
   </Router>
 );
