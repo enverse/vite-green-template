@@ -6,7 +6,10 @@ Recomended package manager: [pnpm](https://github.com/pnpm/pnpm)
 
 Preact + Typescript + Vite
 
-Getting started:
+How to use:
+
+1. Fork this repo :fork_and_knife:
+2. Install and play !
 
 ```
 $ pnpm install
@@ -15,7 +18,7 @@ $ pnpm start
 
 default to http://localhost:3000
 
-Building for production
+3.  Building for production
 
 ```
 $ pnpm build
