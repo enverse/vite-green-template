@@ -1,6 +1,6 @@
-## Enverse minimalist front-end template
+## Enverse minimalist front-end template :seedling: :seedling:
 
-For all else, use astro :smiley:
+For all else, use [Astro.build](https://github.com/withastro/astro) :smiley:
 
 Recomended package manager: [pnpm](https://github.com/pnpm/pnpm)
 
