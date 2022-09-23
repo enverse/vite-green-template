@@ -1,4 +1,4 @@
-## Enverse minimalist front-end template :seedling: :seedling:
+## Enverse minimalist front-end template FOR VITE :seedling: :seedling:
 
 For all else, use [Astro.build](https://github.com/withastro/astro) :smiley:
 
